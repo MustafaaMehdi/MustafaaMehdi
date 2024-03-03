@@ -1,9 +1,41 @@
-# Welcome to Mustafa's official page!
+# Mustafa's page
 
-- 👋 Hi, I’m Mustafa as my user suggests :raising_hand_man:
-- 👀 I’m interested in being a Front-End developer :star:	
-- 🌱 I’m currently learning the fundamentals of front-end development :man_student:	
-- 💞️ I’m looking to collaborate on some fun-newby projects if you're :video_game:	
-- 📫 How to reach me :e-mail: add me on Discord @MustafaMehd (yeah name was was not available)
+👋 Hello, I'm Mustafa Mehdi, a passionate frontend developer and tech enthusiast.
 
-Looking to start a :cat2:-project which I am looking forward to showcase pretty soon!
+## About Me
+
+- 🎓 Currently pursuing a degree in Frontend Development.
+- 💻 Skilled in HTML, CSS, JavaScript, React, Vue, and more.
+- 🚀 Experienced in project coordination, problem-solving, and agile methodologies.
+- 🌐 Always eager to learn and apply new technologies.
+
+## Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Libraries/Frameworks:** React, Vue
+- **Backend:** Node.js, Express
+- **Databases:** MySQL, NoSQL (MongoDB)
+- **Tools:** Git, Figma, Mamp, MongoDBcompass, Atlassian, Miro
+
+## How to Reach Me
+
+- 📧 Email: [anfsmus@gmail.com](mailto:anfsmus@gmail.com)
+- 📱 Phone: +46 760825 867
+- 💼 LinkedIn: [Mustafa Mehdi](https://www.linkedin.com/in/anfsmus/)
+
+## Education and Work Experience
+
+- 🎓 Front-end Development | Medieinstitutet | Current - June 2025
+- 🎓 Technology Program | Grillska gymnasiet | June 2016
+- 💼 Product Specialist | Entercard Group AB | April 2020 - Present
+- 💼 Service Desk Specialist | Entercard Group AB | October 2018 - April 2020
+
+## Interests
+
+- 💡 Exploring new technologies and frameworks.
+- 🌐 Contributing to open-source projects.
+- 📚 Continuous learning and professional growth.
+
+## Let's Connect!
+
+Feel free to explore my repositories and connect with me. I'm always open to collaborations and discussions on exciting projects!
