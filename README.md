@@ -17,10 +17,8 @@
 - **Databases:** MySQL, NoSQL (MongoDB)
 - **Tools:** Git, Figma, Mamp, MongoDBcompass, Atlassian, Miro
 
-## How to Reach Me
+## Work Github:
 
-- 📧 Email: [anfsmus@gmail.com](mailto:anfsmus@gmail.com)
-- 📱 Phone: +46 760825 867
 - 💼 LinkedIn: [Mustafa Mehdi](https://www.linkedin.com/in/anfsmus/)
 
 ## Education and Work Experience
