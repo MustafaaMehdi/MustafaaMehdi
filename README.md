@@ -23,7 +23,7 @@
 
 ## Education and Work Experience
 
-- 🎓 Front-end Development | Medieinstitutet | Current - June 2025
+- 🎓 Front-end Development | Medieinstitutet 
 - 🎓 Technology Program | Grillska gymnasiet | June 2016
 - 💼 Product Specialist | Entercard Group AB | April 2020 - Present
 - 💼 Service Desk Specialist | Entercard Group AB | October 2018 - April 2020
